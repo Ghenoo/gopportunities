@@ -4,11 +4,11 @@ import "github.com/gin-gonic/gin"
 
 func Initialize() {
 	// Initialize Router
-	Router := gin.Default()
+	router := gin.Default()
 
 	// Initialize Routes
-	initializeRoutes(Router)
+	initializeRoutes(router)
 
 	// Run the server
-	Router.Run("address:8080")
+	router.Run(":8080")
 }
