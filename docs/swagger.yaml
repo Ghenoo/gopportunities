@@ -167,7 +167,7 @@ paths:
     get:
       consumes:
       - application/json
-      description: List all job opening
+      description: List all job openings
       produces:
       - application/json
       responses:
@@ -181,5 +181,5 @@ paths:
             $ref: '#/definitions/handler.ErrorResponse'
       summary: List openings
       tags:
-      - openings
+      - Openings
 swagger: "2.0"

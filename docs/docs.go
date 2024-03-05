@@ -147,7 +147,7 @@ const docTemplate = `{
         },
         "/openings": {
             "get": {
-                "description": "List all job opening",
+                "description": "List all job openings",
                 "consumes": [
                     "application/json"
                 ],
@@ -155,7 +155,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "openings"
+                    "Openings"
                 ],
                 "summary": "List openings",
                 "responses": {

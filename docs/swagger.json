@@ -136,7 +136,7 @@
         },
         "/openings": {
             "get": {
-                "description": "List all job opening",
+                "description": "List all job openings",
                 "consumes": [
                     "application/json"
                 ],
@@ -144,7 +144,7 @@
                     "application/json"
                 ],
                 "tags": [
-                    "openings"
+                    "Openings"
                 ],
                 "summary": "List openings",
                 "responses": {
