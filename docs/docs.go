@@ -25,7 +25,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Show opening",
                 "parameters": [
@@ -67,7 +67,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Create a new opening",
                 "parameters": [
@@ -111,7 +111,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Delete a new opening",
                 "parameters": [

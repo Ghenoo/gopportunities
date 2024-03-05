@@ -11,7 +11,7 @@ import (
 
 // @Summary Create a new opening
 // @Description Create a new opening
-// @Tags opening
+// @Tags Openings
 // @Accept json
 // @Produce json
 // @Param request body CreateOpeningRequest true "CreateOpeningRequest"

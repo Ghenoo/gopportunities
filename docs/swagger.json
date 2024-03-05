@@ -14,7 +14,7 @@
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Show opening",
                 "parameters": [
@@ -56,7 +56,7 @@
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Create a new opening",
                 "parameters": [
@@ -100,7 +100,7 @@
                     "application/json"
                 ],
                 "tags": [
-                    "opening"
+                    "Openings"
                 ],
                 "summary": "Delete a new opening",
                 "parameters": [

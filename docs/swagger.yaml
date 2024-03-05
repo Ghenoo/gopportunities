@@ -105,7 +105,7 @@ paths:
             $ref: '#/definitions/handler.ErrorResponse'
       summary: Delete a new opening
       tags:
-      - opening
+      - Openings
     get:
       consumes:
       - application/json
@@ -133,7 +133,7 @@ paths:
             $ref: '#/definitions/handler.ErrorResponse'
       summary: Show opening
       tags:
-      - opening
+      - Openings
     post:
       consumes:
       - application/json
@@ -162,7 +162,7 @@ paths:
             $ref: '#/definitions/handler.ErrorResponse'
       summary: Create a new opening
       tags:
-      - opening
+      - Openings
   /openings:
     get:
       consumes:

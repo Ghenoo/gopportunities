@@ -11,7 +11,7 @@ import (
 
 // @Summary Show opening
 // @Description Show a job opening
-// @Tags opening
+// @Tags Openings
 // @Accept json
 // @Produce json
 // @Param id query string true "Opening identification"
