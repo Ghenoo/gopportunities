@@ -22,7 +22,7 @@ Este projeto é uma API moderna de oportunidades de emprego construída usando G
 
 ## Live version
 
-Você pode checar a documentação e realizar testes na API visitando a versão ativa hosteada em []
+Você pode checar a documentação e realizar testes na API visitando a versão ativa hosteada em [https://gopportunities.excalidevs.com/swagger/index.html]
 
 ## Installation
 
