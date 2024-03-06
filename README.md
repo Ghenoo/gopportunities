@@ -20,11 +20,11 @@ Este projeto é uma API moderna de oportunidades de emprego construída usando G
 - Implementação de uma API completa de oportunidades de emprego com endpoints para busca, criação, edição e exclusão de oportunidades
 - Implementação de testes automatizados para garantir a qualidade da API
 
-## Live version
+## Versão Funcional
 
 Você pode checar a documentação e realizar testes na API visitando a versão ativa hosteada em [https://gopportunities.excalidevs.com/swagger/index.html]
 
-## Installation
+## Instalação
 
 To use this project, you need to follow these steps:
 
@@ -34,7 +34,7 @@ To use this project, you need to follow these steps:
 4. Run the application: `./main`
 
 
-## Makefile Commands
+## Comandos Makefile
 
 O projeto inclui um Makefile para ajudar você manejar tarefas comuns mais facil. Veja a lista de comandos e uma breve descrição do que elas fazem:
 
@@ -104,6 +104,6 @@ To contribute to this project, please follow these guidelines:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Credits
+## Créditos
 
 Esse projeto foi inspirado no [arthur404dev](https://github.com/arthur404dev).
